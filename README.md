@@ -34,7 +34,4 @@ Through Coinography, Golan helps build informative and accessible resources for 
 
 His contributions support both newcomers and advanced users in developing a deeper understanding of Web3 trends and opportunities.
 
-## Professional Links
 
-Website: https://coinography.com  
-LinkedIn: https://www.linkedin.com/in/golan-malhi-a239036b/
